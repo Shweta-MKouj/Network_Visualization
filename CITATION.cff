@@ -1,0 +1,7 @@
+cff-version: 1.0.0
+title: "End-to-End SDN Management: Reactive Flow Control, Topology Discovery, and Real-Time Visualization with PHP and Ryu Controllers"
+authors:
+  - family-names: "M. K."
+    given-names: "Shweta"
+date-released: 2025-12-008
+url: "https://shweta-mkouj.github.io/Network_Visualization/"
